@@ -15,3 +15,24 @@
 # 拉取代码
 git clone https://github.com/MatchlessHeroVIP/ssmtest.git
 git pull
+# 撤销修改
+1. 如果一个文件修改后未提交也未添加：
+-   所谓提交，即执行了git commit命令
+-   所谓添加，即执行了git add命令
+撤销修改使用：
+git checkout “file”
+
+查看一个文件的修改可以使用：
+git diff
+2. 撤销一个已添加未提交的修改：
+    - 先试用reset命令取消添加： git reset “file”
+    - 再执行git check “file”
+
+# 查看提交记录
+git log
+1. 如果提交记录很多，可以在命令中加上 -n参数，表示我们只想看到一条记录，如下所示：
+    git log  -1
+2. 如果想要查看查询的这条提交记录中具体修改了什么内容，可以在命令中加入 -p参数，命令如下所示：
+    git log -1 -p
+查询的结果中，减号代表删除的部分，加号代表增加的部分
+按q键退出
