@@ -1,0 +1,176 @@
+2022-02-17 17:43:42.607 create_test_data.py[994] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, AutomationId: 'tbxCustName', ControlType: EditControl}
+2022-02-17 17:45:28.469 create_test_data.py[995] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, AutomationId: 'tbxCustName', ControlType: EditControl}
+2022-02-17 17:46:38.822 create_test_data.py[995] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, AutomationId: 'tbxCustName', ControlType: EditControl}
+2022-02-17 17:50:04.435 create_test_data.py[997] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, AutomationId: 'tbxCustName', ControlType: EditControl}
+2022-02-17 17:53:01.707 create_test_data.py[1003] contstartplanadd_ui -> Find Control Timeout(5s): {AutomationId: 'myTime', ControlType: PaneControl}
+2022-02-17 17:58:18.227 create_test_data.py[986] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, Name: '马上处理', ControlType: ButtonControl}
+2022-02-17 18:28:23.688 create_test_data.py[984] contstartplanadd_ui -> Find Control Timeout(5s): {Name: '毛伟人 岚庭ERP ', ControlType: WindowControl}
+2022-02-18 09:33:30.249 create_test_data.py[997] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, AutomationId: 'tbxCustName', ControlType: EditControl}
+2022-02-18 14:27:29.689 create_test_data.py[1119] baojiadan -> Find Control Timeout(5s): {Depth: 4, AutomationId: 'myConfirm', ControlType: EditControl}
+2022-02-18 18:10:46.991 create_test_data.py[1127] baojiadan -> Find Control Timeout(5s): {Depth: 7, Name: 'Data Panel', ControlType: CustomControl}
+2022-02-19 16:35:10.881 create_test_data.py[1023] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 4, Name: 'Row 1', ControlType: CustomControl}
+2022-03-09 18:40:45.807 create_test_data.py[1148] baojiadan -> Find Control Timeout(5s): {Depth: 10, Name: '名称 row 1', ControlType: DataItemControl}
+2022-03-09 18:58:10.573 create_test_data.py[1154] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保存', ControlType: ButtonControl}
+2022-03-12 10:31:13.444 create_test_data.py[1158] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-03-23 11:17:04.786 create_test_data.py[1153] baojiadan -> Find Control Timeout(5s): {Depth: 10, Name: '名称 row 1', ControlType: DataItemControl}
+2022-03-23 11:43:49.895 create_test_data.py[1152] baojiadan -> Find Control Timeout(5s): {Depth: 6, Name: '添加', ControlType: ButtonControl}
+2022-03-23 14:31:20.416 create_test_data.py[1039] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 4, Name: 'Row 1', ControlType: CustomControl}
+2022-03-23 14:36:19.875 create_test_data.py[1090] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 5, Name: '选择', ControlType: ButtonControl}
+2022-03-23 16:14:55.460 create_test_data.py[1201] kaigong -> Find Control Timeout(5s): {AutomationId: 'tbxCustName', ControlType: EditControl}
+2022-03-23 16:16:20.067 create_test_data.py[1206] kaigong -> Find Control Timeout(5s): {Depth: 4, Name: 'Row3', ControlType: CustomControl}
+2022-03-23 16:18:46.213 create_test_data.py[1210] kaigong -> Find Control Timeout(5s): {Name: '选择空间设计师', ControlType: ButtonControl}
+2022-03-23 19:40:20.901 create_test_data.py[1255] hesuandan -> Find Control Timeout(5s): {Name: '材料名称 row 0', ControlType: DataItemControl}
+2022-03-23 19:42:28.518 create_test_data.py[1258] hesuandan -> Find Control Timeout(5s): {Depth: 3, Name: 'Row 2', ControlType: CustomControl}
+2022-03-23 19:45:59.689 create_test_data.py[1262] hesuandan -> Find Control Timeout(5s): {Depth: 5, Name: '确定', ControlType: ButtonControl}
+2022-03-23 19:54:51.668 create_test_data.py[1271] hesuandan -> Find Control Timeout(5s): {Name: '基装材料', ControlType: TabControl}
+2022-03-23 20:16:49.388 create_test_data.py[1273] hesuandan -> Find Control Timeout(5s): {Depth: 5, Name: '确定', ControlType: ButtonControl}
+2022-03-23 20:25:44.462 create_test_data.py[1295] hesuandan -> Find Control Timeout(10s): {Depth: 3, AutomationId: 'layoutControl1', ControlType: PaneControl}
+2022-03-24 09:11:29.148 create_test_data.py[1306] hesuandan -> Find Control Timeout(10s): {Depth: 3, AutomationId: 'layoutControl1', ControlType: PaneControl}
+2022-03-24 09:16:11.214 create_test_data.py[1310] hesuandan -> Find Control Timeout(10s): {Name: '保存', ControlType: ButtonControl}
+2022-03-24 09:40:17.596 create_test_data.py[1319] hesuandan -> Find Control Timeout(5s): {Depth: 3, AutomationId: 'layoutControl1', ControlType: PaneControl}
+2022-03-24 09:54:54.438 create_test_data.py[1247] hesuandan -> Find Control Timeout(5s): {AutomationId: 'hlinkContNo', ControlType: EditControl}
+2022-03-24 09:56:23.632 create_test_data.py[1309] hesuandan -> Find Control Timeout(5s): {Depth: 4, Name: '新建', ControlType: ButtonControl}
+2022-03-24 11:39:34.526 create_test_data.py[1204] kaigong -> Find Control Timeout(5s): {AutomationId: 'hlinkCont', ControlType: EditControl}
+2022-03-24 11:42:56.246 create_test_data.py[1204] kaigong -> Find Control Timeout(5s): {AutomationId: 'hlinkCont', ControlType: EditControl}
+2022-03-24 11:47:33.240 create_test_data.py[1213] kaigong -> Find Control Timeout(5s): {Name: '选择空间设计师', ControlType: ButtonControl}
+2022-03-24 17:35:53.025 test.py[11] <module> -> Find Control Timeout(2s): {Depth: 3, Name: '重大工程阶段', ControlType: ListControl}
+2022-03-24 18:54:53.838 test.py[11] <module> -> Find Control Timeout(2s): {Depth: 3, Name: '处理装修管家问题1', ControlType: ListControl}
+2022-03-24 19:35:46.672 create_test_data.py[1286] hesuandan -> Find Control Timeout(5s): {Name: '材料名称 row 0', ControlType: DataItemControl}
+2022-03-24 19:36:42.029 create_test_data.py[1286] hesuandan -> Find Control Timeout(5s): {Name: '材料名称 row 0', ControlType: DataItemControl}
+2022-03-24 19:40:46.471 create_test_data.py[1287] hesuandan -> Find Control Timeout(5s): {Name: '材料名称 row 0', ControlType: DataItemControl}
+2022-03-24 19:40:55.286 create_test_data.py[992] upload_pic -> Find Control Timeout(5s): {Depth: 2, Name: '上传图片 row 0', ControlType: DataItemControl}
+2022-03-24 20:14:30.238 test.py[22] <module> -> Find Control Timeout(10s): {Depth: 4, Name: '输入', ControlType: EditControl}
+2022-03-25 09:21:19.750 test.py[23] <module> -> Find Control Timeout(10s): {Depth: 13, Name: '输入', ControlType: EditControl}
+2022-03-25 09:30:23.253 test.py[23] <module> -> Find Control Timeout(10s): {Depth: 10, Name: '输入', ControlType: EditControl}
+2022-03-25 09:30:47.928 test.py[23] <module> -> Find Control Timeout(10s): {Depth: 10, Name: '输入', ControlType: EditControl}
+2022-03-25 09:38:18.499 test.py[23] <module> -> Find Control Timeout(10s): {Depth: 10, Name: '输入', ControlType: EditControl}
+2022-03-25 09:38:59.629 test.py[23] <module> -> Find Control Timeout(10s): {Depth: 10, Name: '输入', ControlType: EditControl}
+2022-03-25 12:55:06.837 ding_dailydaper.py[11] <module> -> Find Control Timeout(10s): {Depth: 3, Name: '昨天', ControlType: TextControl}
+2022-03-25 12:56:19.969 ding_dailydaper.py[12] <module> -> Find Control Timeout(10s): {Depth: 3, Name: '昨天', ControlType: TextControl}
+2022-03-25 14:35:58.446 ding_dailydaper.py[10] <module> -> Find Control Timeout(10s): {Depth: 4, ControlType: TextControl}
+2022-03-25 14:37:41.144 ding_dailydaper.py[9] <module> -> Find Control Timeout(10s): {Depth: 4, ControlType: TextControl}
+2022-03-25 15:11:36.611 ding_dailydaper.py[32] <module> -> Find Control Timeout(10s): {Depth: 2, Name: '请输入消息', ControlType: EditControl}
+2022-03-25 16:30:42.429 create_test_data.py[1290] hesuandan -> 2022-03-25 16:45:26.669 create_test_data.py[1359] hesuandan -> Find Control Timeout(5s): {Depth: 4, Name: '新建', ControlType: ButtonControl}
+2022-03-25 18:47:29.934 ding_dailydaper.py[31] <module> -> Find Control Timeout(10s): {Depth: 2, Name: '请输入消息', ControlType: EditControl}
+2022-03-25 18:48:14.467 ding_dailydaper.py[31] <module> -> Find Control Timeout(10s): {Depth: 2, Name: '请输入消息', ControlType: EditControl}
+2022-03-25 18:48:43.735 ding_dailydaper.py[31] <module> -> Find Control Timeout(10s): {Depth: 2, Name: '请输入消息', ControlType: EditControl}
+2022-03-25 20:36:14.092 ding_dailydaper.py[23] <module> -> Find Control Timeout(10s): {SubName: '测试部门工作日志', ControlType: TextControl}
+2022-03-26 09:08:06.360 ding_dailydaper.py[20] <module> -> Find Control Timeout(10s): {Depth: 3, Name: '今天', ControlType: TextControl}
+2022-03-26 09:09:14.405 ding_dailydaper.py[20] <module> -> Find Control Timeout(10s): {Depth: 3, Name: '今天', ControlType: TextControl}
+2022-03-26 09:14:05.242 ding_dailydaper.py[25] <module> -> Find Control Timeout(10s): {SubName: '测试部门工作日志', ControlType: TextControl}
+2022-03-26 17:17:48.261 create_test_data.py[1156] baojiadan -> Find Control Timeout(5s): {Depth: 8, Name: 'Page Down', ControlType: ButtonControl}
+2022-03-26 17:21:11.347 create_test_data.py[1174] baojiadan -> Find Control Timeout(5s): {Depth: 10, Name: '名称 row 1', ControlType: DataItemControl}
+2022-03-26 17:21:44.665 create_test_data.py[1174] baojiadan -> Find Control Timeout(5s): {Depth: 10, Name: '名称 row 1', ControlType: DataItemControl}
+2022-03-26 17:26:46.442 create_test_data.py[1029] contstartplanadd_ui -> Find Control Timeout(5s): {Name: '毛伟人 岚庭ERP ', ControlType: WindowControl}
+2022-03-26 17:27:45.904 create_test_data.py[1065] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 4, Name: 'Row 1', ControlType: CustomControl}
+2022-03-26 17:33:56.920 create_test_data.py[1040] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, AutomationId: 'tbxCustName', ControlType: EditControl}
+2022-03-26 19:16:45.692 create_test_data.py[1182] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-03-26 19:18:25.412 create_test_data.py[1182] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-03-28 09:12:16.559 ding_dailydaper.py[18] daily_paper_check -> Find Control Timeout(10s): {Depth: 3, Name: '今天', ControlType: TextControl}
+2022-03-28 09:24:40.361 ding_dailydaper.py[21] daily_paper_check -> Find Control Timeout(10s): {Depth: 3, Name: '今天', ControlType: TextControl}
+2022-03-28 09:27:40.940 ding_dailydaper.py[20] daily_paper_check -> Find Control Timeout(10s): {Depth: 3, Name: '今天', ControlType: TextControl}
+2022-03-29 09:04:58.908 ding_dailydaper.py[7] daily_paper_check -> Find Control Timeout(10s): {Name: '搜索', ControlType: EditControl}
+2022-03-30 09:15:47.485 ding_dailydaper.py[7] daily_paper_check -> Find Control Timeout(10s): {Name: '搜索', ControlType: EditControl}
+2022-03-31 09:11:23.485 ding_dailydaper.py[19] daily_paper_check -> Find Control Timeout(10s): {Depth: 3, Name: '今天', ControlType: TextControl}
+2022-03-31 09:11:33.517 ding_dailydaper.py[19] daily_paper_check -> 2022-03-31 10:18:30.108 worktree.py[7] <module> -> Find Control Timeout(10s): {SubName: '姓名', ControlType: DataItemControl}
+2022-03-31 10:21:04.157 worktree.py[8] <module> -> Find Control Timeout(10s): {SubName: '姓名', ControlType: DataItemControl}
+2022-03-31 10:22:17.822 worktree.py[14] <module> -> Find Control Timeout(10s): {AutomationId: 'myStaffName', ControlType: EditControl}
+2022-03-31 10:22:39.373 worktree.py[14] <module> -> Find Control Timeout(10s): {AutomationId: 'myStaffName', ControlType: EditControl}
+2022-03-31 10:25:21.476 worktree.py[12] <module> -> Find Control Timeout(10s): {Depth: 3, AutomationId: 'layoutControl1', ControlType: PaneControl}
+2022-03-31 10:27:07.026 worktree.py[17] <module> -> Find Control Timeout(10s): {Name: '重置密码', ControlType: ButtonControl}
+2022-03-31 14:22:24.482 worktree.py[22] <module> -> Find Control Timeout(10s): {Depth: 2, SubName: '最后登录时间', ControlType: DataItemControl}
+2022-03-31 15:29:33.597 test.py[32] <module> -> Find Control Timeout(10s): {Name: 'Data Panel', ControlType: CustomControl}
+2022-03-31 15:58:52.928 test.py[43] <module> -> Find Control Timeout(10s): {Name: 'Data Panel', ControlType: PaneControl}
+2022-03-31 16:49:49.725 test.py[47] <module> -> Find Control Timeout(10s): {Name: 'Data Panel', ControlType: CustomControl}
+2022-03-31 16:51:04.361 test.py[55] <module> -> Find Control Timeout(10s): {Depth: 4, Name: '新建', ControlType: ButtonControl}
+2022-03-31 17:01:35.032 test.py[53] <module> -> Find Control Timeout(10s): {Depth: 4, Name: '新建', ControlType: ButtonControl}
+2022-03-31 17:04:20.226 test.py[53] <module> -> Find Control Timeout(10s): {Depth: 4, Name: '新建', ControlType: ButtonControl}
+2022-03-31 17:04:54.741 test.py[53] <module> -> Find Control Timeout(10s): {Depth: 3, Name: 'myStaffToolBarPanel', ControlType: PaneControl}
+2022-03-31 17:05:24.071 test.py[53] <module> -> Find Control Timeout(10s): {Depth: 3, AutomationId: 'UCWorker', ControlType: PaneControl}
+2022-03-31 17:08:34.680 test.py[66] <module> -> Find Control Timeout(10s): {AutomationId: 'myWorkerDept', ControlType: EditControl}
+2022-03-31 17:35:36.486 worktree.py[11] <module> -> Find Control Timeout(10s): {Name: 'Data Panel', ControlType: CustomControl}
+2022-03-31 17:36:29.474 worktree.py[20] <module> -> Find Control Timeout(10s): {AutomationId: 'myStaffNo', ControlType: EditControl}
+2022-03-31 18:06:12.278 worktree.py[35] <module> -> Find Control Timeout(10s): {Depth: 4, Name: '选择', ControlType: ButtonControl}
+2022-03-31 20:06:56.976 test.py[65] <module> -> Find Control Timeout(10s): {SubName: '工人级别', ControlType: DataItemControl}
+2022-03-31 20:14:40.746 test.py[65] <module> -> Find Control Timeout(10s): {SubName: '工人级别', ControlType: DataItemControl}
+2022-03-31 20:29:45.130 test.py[65] <module> -> Find Control Timeout(10s): {SubName: '工人级别', ControlType: DataItemControl}
+2022-03-31 20:29:55.190 test.py[70] <module> -> Find Control Timeout(10s): {Depth: 2, Name: 'scroll bar', ControlType: ScrollBarControl}
+2022-03-31 20:31:29.312 test.py[65] <module> -> 2022-03-31 20:32:56.983 test.py[65] <module> -> 2022-04-04 10:20:40.234 openims.py[11] openims -> 2022-04-05 09:14:20.032 ding_dailydaper.py[19] daily_paper_check -> Find Control Timeout(10s): {Depth: 3, Name: '今天', ControlType: TextControl}
+2022-04-05 09:14:30.164 ding_dailydaper.py[27] daily_paper_check -> Find Control Timeout(10s): {SubName: '测试部门工作日志', ControlType: TextControl}
+2022-04-05 09:22:18.263 ding_dailydaper.py[22] daily_paper_check -> Find Control Timeout(10s): {Depth: 3, Name: '今天', ControlType: TextControl}
+2022-04-05 09:22:28.362 ding_dailydaper.py[30] daily_paper_check -> Find Control Timeout(10s): {SubName: '测试部门工作日志', ControlType: TextControl}
+2022-04-05 09:34:55.770 ding_dailydaper.py[15] daily_paper_check -> Find Control Timeout(10s): {Depth: 2, ControlType: GroupControl}
+2022-04-05 09:38:05.353 ding_dailydaper.py[27] daily_paper_check -> Find Control Timeout(10s): {SubName: '测试部门工作日志', ControlType: TextControl}
+2022-04-05 09:40:02.805 ding_dailydaper.py[28] daily_paper_check -> Find Control Timeout(10s): {SubName: '测试部门工作日志', ControlType: TextControl}
+2022-04-05 16:06:07.343 worktree.py[11] <module> -> Find Control Timeout(10s): {Name: 'Data Panel', ControlType: CustomControl}
+2022-04-05 16:07:57.423 worktree.py[11] <module> -> Find Control Timeout(10s): {Name: 'Data Panel', ControlType: CustomControl}
+2022-04-07 09:58:02.759 worktree.py[44] <module> -> Find Control Timeout(10s): {Name: 'Data Panel', ControlType: CustomControl}
+2022-04-07 10:12:31.154 worktree.py[20] <module> -> Find Control Timeout(10s): {Name: 'Data Panel', ControlType: CustomControl}
+2022-04-07 16:50:36.232 contract.py[47] <module> -> Find Control Timeout(10s): {AutomationId: 'dateExpectStartDate', ControlType: EditControl}
+2022-04-16 10:49:01.507 create_test_data.py[1155] baojiadan -> Find Control Timeout(5s): {Depth: 6, Name: '添加', ControlType: ButtonControl}
+2022-04-16 10:49:33.998 create_test_data.py[1125] baojiadan -> Find Control Timeout(5s): {Depth: 7, AutomationId: 'myName', ControlType: EditControl}
+2022-04-16 10:50:51.494 create_test_data.py[1157] baojiadan -> 2022-04-16 11:14:21.436 create_test_data.py[1162] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-04-27 10:54:15.962 create_test_data.py[1120] baojiadan -> Find Control Timeout(5s): {Depth: 5, AutomationId: 'hlinkCoName', ControlType: EditControl}
+2022-04-27 10:55:02.293 create_test_data.py[1162] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-04-27 10:59:11.669 create_test_data.py[1162] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-04-27 11:00:59.039 create_test_data.py[1044] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, AutomationId: 'myConfirm', ControlType: ButtonControl}
+2022-04-27 11:04:35.393 create_test_data.py[1054] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, AutomationId: 'myKey', ControlType: EditControl}
+2022-04-27 14:32:34.245 create_test_data.py[1118] baojiadan -> Find Control Timeout(5s): {Name: '幸福毛经理 岚庭ERP', ControlType: WindowControl}
+2022-04-27 15:50:00.288 create_test_data.py[1019] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, AutomationId: 'tbxCustName', ControlType: EditControl}
+2022-04-27 15:50:46.124 create_test_data.py[988] upload_pic -> Find Control Timeout(5s): {Name: '添加', ControlType: ButtonControl}
+2022-04-29 11:18:05.777 create_test_data.py[1166] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-04-29 15:11:37.436 create_test_data.py[1054] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, AutomationId: 'myKey', ControlType: EditControl}
+2022-04-29 15:14:19.342 create_test_data.py[1045] contstartplanadd_ui -> Find Control Timeout(5s): {AutomationId: 'hlinkHandoverOfficer', ControlType: EditControl}
+2022-04-29 15:26:34.771 create_test_data.py[1220] kaigong -> Find Control Timeout(5s): {Name: '选择空间设计师', ControlType: ButtonControl}
+2022-04-29 15:27:14.660 create_test_data.py[1233] kaigong -> Find Control Timeout(5s): {Name: '分配质检员', ControlType: ButtonControl}
+2022-04-29 16:08:58.901 create_test_data.py[1244] kaigong -> Find Control Timeout(5s): {Depth: 2, AutomationId: 'dateFactStartDate', ControlType: EditControl}
+2022-04-30 11:34:08.520 create_test_data.py[1166] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-04-30 14:48:38.207 create_test_data.py[1054] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, AutomationId: 'mykey', ControlType: EditControl}
+2022-04-30 15:20:06.893 create_test_data.py[1054] contstartplanadd_ui -> Find Control Timeout(5s): {AutomationId: 'myStfName', ControlType: EditControl}
+2022-04-30 16:18:03.315 create_test_data.py[1168] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-04-30 16:23:57.464 create_test_data.py[1246] kaigong -> Find Control Timeout(5s): {Depth: 1, AutomationId: 'dateFactStartDate', ControlType: EditControl}
+2022-04-30 16:29:29.276 create_test_data.py[1054] contstartplanadd_ui -> Find Control Timeout(5s): {AutomationId: 'myStfName', ControlType: EditControl}
+2022-04-30 16:32:06.118 create_test_data.py[1168] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-05-04 10:54:22.585 create_test_data.py[1126] baojiadan -> Find Control Timeout(5s): {Depth: 5, AutomationId: 'hlinkCoName', ControlType: EditControl}
+2022-05-04 10:55:03.630 create_test_data.py[1168] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-05-04 15:42:40.110 create_test_data.py[1168] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-05-04 16:24:06.556 create_test_data.py[1168] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-05-04 16:34:15.916 create_test_data.py[1250] kaigong -> Find Control Timeout(5s): {Depth: 2, AutomationId: 'dateFactStartDate', ControlType: EditControl}
+2022-05-04 16:37:21.740 create_test_data.py[1054] contstartplanadd_ui -> Find Control Timeout(5s): {AutomationId: 'myStfName', ControlType: EditControl}
+2022-05-04 17:17:29.079 create_test_data.py[1168] baojiadan -> Find Control Timeout(5s): {Depth: 2, Name: '保 存', ControlType: ButtonControl}
+2022-05-04 18:16:48.238 create_test_data.py[1045] contstartplanadd_ui -> Find Control Timeout(5s): {AutomationId: 'myKey', ControlType: EditControl}
+2022-05-04 18:17:39.733 create_test_data.py[1054] contstartplanadd_ui -> Find Control Timeout(5s): {AutomationId: 'myStfName', ControlType: EditControl}
+2022-05-04 18:19:24.875 create_test_data.py[1054] contstartplanadd_ui -> Find Control Timeout(5s): {AutomationId: 'myStfName', ControlType: EditControl}
+2022-05-05 09:14:48.628 create_test_data.py[1054] contstartplanadd_ui -> Find Control Timeout(5s): {AutomationId: 'myStfName', ControlType: EditControl}
+2022-05-05 09:20:55.508 create_test_data.py[1060] contstartplanadd_ui -> Find Control Timeout(5s): {AutomationId: 'myStfName', ControlType: EditControl}
+2022-05-05 09:26:37.774 create_test_data.py[1061] contstartplanadd_ui -> Find Control Timeout(5s): {AutomationId: 'myStfName', ControlType: EditControl}
+2022-05-05 09:49:33.957 create_test_data.py[1066] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, name: '选择', ControlType: ButtonControl}
+2022-05-05 10:02:19.716 create_test_data.py[1072] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, name: '选择', ControlType: ButtonControl}
+2022-05-05 10:06:13.868 create_test_data.py[1072] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 3, name: '选择', ControlType: ButtonControl}
+2022-05-05 10:08:43.342 create_test_data.py[988] upload_pic -> Find Control Timeout(5s): {Name: '添加', ControlType: ButtonControl}
+2022-05-05 10:13:29.847 create_test_data.py[1184] baojiadan -> Find Control Timeout(5s): {Depth: 2, AutomationId: 'simpleButton保 存', ControlType: ButtonControl}
+2022-05-05 10:23:30.742 create_test_data.py[1060] contstartplanadd_ui -> Find Control Timeout(5s): {SubName: '员工姓名', ControlType: DataItemControl}
+2022-05-05 10:34:36.846 create_test_data.py[1035] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 6, AutomationId: 'txtKeywords', ControlType: EditControl}
+2022-05-05 10:36:37.274 create_test_data.py[1178] baojiadan -> Find Control Timeout(5s): {Depth: 10, Name: '名称 row 1', ControlType: DataItemControl}
+2022-05-05 15:10:02.931 create_test_data.py[1021] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 4, AutomationId: 'hlinkCont', ControlType: EditControl}
+2022-05-05 17:31:17.374 create_test_data.py[1338] hesuandan -> Find Control Timeout(5s): {Depth: 3, AutomationId: 'layoutControl1', ControlType: PaneControl}
+2022-05-05 17:38:24.944 create_test_data.py[1370] hesuandan -> Find Control Timeout(5s): {Depth: 5, Name: '确定', ControlType: ButtonControl}
+2022-05-05 17:38:33.181 create_test_data.py[989] upload_pic -> Find Control Timeout(5s): {Depth: 2, Name: '上传图片 row 0', ControlType: DataItemControl}
+2022-05-05 17:58:20.515 create_test_data.py[993] upload_pic -> Find Control Timeout(5s): {Name: '添加', ControlType: ButtonControl}
+2022-05-05 18:00:15.610 create_test_data.py[1115] contstartplanadd_ui -> Find Control Timeout(5s): {Depth: 5, Name: '选择', ControlType: ButtonControl}
+2022-05-05 18:31:56.681 create_test_data.py[1327] hesuandan -> Find Control Timeout(5s): {AutomationId: 'hlinkContNo', ControlType: EditControl}
+2022-05-06 09:12:26.739 create_test_data.py[1327] hesuandan -> Find Control Timeout(5s): {AutomationId: 'hlinkContNo', ControlType: EditControl}
+2022-05-06 09:45:46.487 create_test_data.py[1251] kaigong -> Find Control Timeout(10s): {Depth: 3, AutomationId: 'layoutControl1', ControlType: PaneControl}
+2022-05-06 09:51:52.178 create_test_data.py[1312] kaigong -> Find Control Timeout(5s): {Name: '设置内部工期', ControlType: ButtonControl}
+2022-05-06 09:53:51.111 create_test_data.py[1312] kaigong -> Find Control Timeout(5s): {Name: '设置内部工期', ControlType: ButtonControl}
+2022-05-06 10:23:02.211 create_test_data.py[1148] baojiadan -> Find Control Timeout(5s): {Name: '幸福毛经理 岚庭ERP ', ControlType: WindowControl}
+2022-05-06 10:23:32.094 create_test_data.py[1152] baojiadan -> Find Control Timeout(5s): {Depth: 7, Name: '新建', ControlType: ButtonControl}
+2022-05-06 10:31:58.248 create_test_data.py[1191] baojiadan -> Find Control Timeout(10s): {Depth: 10, Name: '名称 row 1', ControlType: DataItemControl}
+2022-05-06 11:12:42.976 create_test_data.py[1338] hesuandan -> Find Control Timeout(5s): {Name: '幸福毛经理 岚庭ERP ', ControlType: WindowControl}
+2022-05-06 11:13:16.919 create_test_data.py[1348] hesuandan -> Find Control Timeout(5s): {AutomationId: 'hlinkContNo', ControlType: EditControl}
+2022-05-14 10:07:55.588 create_test_data.py[1234] kaigong -> Find Control Timeout(5s): {Name: '幸福毛经理 岚庭ERP ', ControlType: WindowControl}
+2022-05-14 10:13:37.041 create_test_data.py[1353] hesuandan -> Find Control Timeout(5s): {AutomationId: 'tbxCustName', ControlType: EditControl}
+2022-05-14 10:21:44.834 create_test_data.py[1317] kaigong -> Find Control Timeout(5s): {Name: '设置内部工期', ControlType: ButtonControl}
+2022-05-14 10:33:31.725 create_test_data.py[1259] kaigong -> Find Control Timeout(5s): {Name: '选择空间设计师', ControlType: ButtonControl}
+2022-05-14 11:20:06.571 create_test_data.py[1278] kaigong -> Find Control Timeout(5s): {Name: '分配质检员', ControlType: ButtonControl}
+2022-05-14 11:20:42.012 create_test_data.py[1152] baojiadan -> Find Control Timeout(5s): {Name: '幸福毛经理 岚庭ERP ', ControlType: WindowControl}

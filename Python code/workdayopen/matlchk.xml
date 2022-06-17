@@ -1,0 +1,101 @@
+<MatlChklEdit>
+    <se xmlns="http://tempuri.org/">
+        <a>aaa</a>
+    </se>
+    <session
+        xmlns:a="http://schemas.datacontract.org/2004/07/Base.Data.UserRight"
+        xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <a:LoginStafPosID>7592d52d-020c-42e6-bff8-5e051b2ae9de</a:LoginStafPosID>
+        <a:RegisterID i:nil="true"></a:RegisterID>
+        <a:SessionID>e41db093-75d7-41a1-8190-3d9dcaad98ee</a:SessionID>
+        <a:Sign i:nil="true"></a:Sign>
+        <a:UniqueID>e41db093-75d7-41a1-8190-3d9dcaad98ee</a:UniqueID>
+    </session>
+    <matlChkEdit
+        xmlns:a="http://schemas.datacontract.org/2004/07/LandErp.ServiceModel"
+        xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <a:BilsCoID i:nil="true"></a:BilsCoID>
+        <a:BilsCoName i:nil="true"></a:BilsCoName>
+        <a:CoID i:nil="true"></a:CoID>
+        <a:CoName i:nil="true"></a:CoName>
+        <a:CreTime>2022-06-15T09:43:40.4380636+08:00</a:CreTime>
+        <a:ID i:nil="true"></a:ID>
+        <a:Oper i:nil="true"></a:Oper>
+        <a:OperID i:nil="true"></a:OperID>
+        <a:UniqueID i:nil="true"></a:UniqueID>
+        <a:UpdtOper i:nil="true"></a:UpdtOper>
+        <a:UpdtOperId i:nil="true"></a:UpdtOperId>
+        <a:UpdtTime>2022-06-15T09:43:40.4380636+08:00</a:UpdtTime>
+        <a:BldID>e29af9e0-758b-4c95-9bc4-bee989d43d94</a:BldID>
+        <a:BldName i:nil="true"></a:BldName>
+        <a:BudgetCompleteTime i:nil="true"></a:BudgetCompleteTime>
+        <a:BudgeterID>3617f2fd-a87b-4a0a-ae0e-4dc3697f8578</a:BudgeterID>
+        <a:BudgeterName i:nil="true"></a:BudgeterName>
+        <a:ChgCount>0</a:ChgCount>
+        <a:ChkAmount>1.00</a:ChkAmount>
+        <a:ChkDate>2022-06-15T00:00:00+08:00</a:ChkDate>
+        <a:ContAwardAmount>0</a:ContAwardAmount>
+        <a:ContBudgeterName i:nil="true"></a:ContBudgeterName>
+        <a:ContID>6e88d170-40c5-4a4f-b307-771fb0d45513</a:ContID>
+        <a:ContNo i:nil="true"></a:ContNo>
+        <a:ContStartDate i:nil="true"></a:ContStartDate>
+        <a:ContState>0</a:ContState>
+        <a:CustName i:nil="true"></a:CustName>
+        <a:CustTel i:nil="true"></a:CustTel>
+        <a:CustTelsList i:nil="true"
+            xmlns:b="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        </a:CustTelsList>
+        <a:DesnID>999c0ab5-bb08-418e-8c01-cad99377cdd7</a:DesnID>
+        <a:DesnName i:nil="true"></a:DesnName>
+        <a:DiscID>76527f9e-c832-445f-be86-a7dac3272022</a:DiscID>
+        <a:DiscNo i:nil="true"></a:DiscNo>
+        <a:DiscRemark i:nil="true"></a:DiscRemark>
+        <a:FinalCompleteTime i:nil="true"></a:FinalCompleteTime>
+        <a:FloorNum>0</a:FloorNum>
+        <a:FurAppID i:nil="true"></a:FurAppID>
+        <a:FurAppNo i:nil="true"></a:FurAppNo>
+        <a:HouseAddr i:nil="true"></a:HouseAddr>
+        <a:HouseStructure>160aab3a-ed6e-455f-8687-1a7c1010f6c0</a:HouseStructure>
+        <a:HouseType i:nil="true"></a:HouseType>
+        <a:HouseTypeID i:nil="true"></a:HouseTypeID>
+        <a:HydropowerPrePayAmount>0</a:HydropowerPrePayAmount>
+        <a:InnerFrameSize>111</a:InnerFrameSize>
+        <a:IsSubCont>false</a:IsSubCont>
+        <a:MatlChkState>0</a:MatlChkState>
+        <a:OfferID>23bfc6cb-e0c6-11ec-85ad-704d7b646933</a:OfferID>
+        <a:OfferNo i:nil="true"></a:OfferNo>
+        <a:OfferType>6</a:OfferType>
+        <a:PMName i:nil="true"></a:PMName>
+        <a:ShuiDianAreaSize>0</a:ShuiDianAreaSize>
+        <a:SignDate i:nil="true"></a:SignDate>
+        <a:StartAcptDate i:nil="true"></a:StartAcptDate>
+        <a:SupplierCount>0</a:SupplierCount>
+        <a:SysNo i:nil="true"></a:SysNo>
+        <a:TimeLimit>0</a:TimeLimit>
+        <a:ValidDate i:nil="true"></a:ValidDate>
+        <a:ValuationSize>122</a:ValuationSize>
+        <a:marketerName i:nil="true"></a:marketerName>
+        <a:BaseInstMatlDetls i:nil="true"></a:BaseInstMatlDetls>
+        <a:DiscDetlEdits></a:DiscDetlEdits>
+        <a:IsMatlChkChg>false</a:IsMatlChkChg>
+        <a:MatlChkChgRecordId i:nil="true"></a:MatlChkChgRecordId>
+        <a:MatlChkDetlEdits></a:MatlChkDetlEdits>
+        <a:MatlChkDetlSortData>
+            <a:BilsCoID i:nil="true"></a:BilsCoID>
+            <a:BilsCoName i:nil="true"></a:BilsCoName>
+            <a:CoID i:nil="true"></a:CoID>
+            <a:CoName i:nil="true"></a:CoName>
+            <a:CreTime>2022-06-15T09:43:40.4420529+08:00</a:CreTime>
+            <a:ID i:nil="true"></a:ID>
+            <a:Oper i:nil="true"></a:Oper>
+            <a:OperID i:nil="true"></a:OperID>
+            <a:UniqueID i:nil="true"></a:UniqueID>
+            <a:UpdtOper i:nil="true"></a:UpdtOper>
+            <a:UpdtOperId i:nil="true"></a:UpdtOperId>
+            <a:UpdtTime>2022-06-15T09:43:40.4420529+08:00</a:UpdtTime>
+            <a:SortDetls></a:SortDetls>
+            <a:SourceCatg>85</a:SourceCatg>
+            <a:SourceId i:nil="true"></a:SourceId>
+        </a:MatlChkDetlSortData>
+    </matlChkEdit>
+</MatlChklEdit>

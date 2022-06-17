@@ -1,0 +1,12 @@
+<MatlChklEdit>
+    <se xmlns:a="http://schemas.datacontract.org/2004/07/LandErp.ServiceModel">
+        <a:Asd>ss1</a:Asd>
+    </se>
+    <session xmlns:a="http://schemas.datacontract.org/2004/07/Base.Data.UserRight">
+        <a:LoginStafPosID>7592d52d-020c-42e6-bff8-5e051b2ae9de</a:LoginStafPosID>
+        <a:RegisterID a:nil="true"/>
+        <a:SessionID>e41db093-75d7-41a1-8190-3d9dcaad98ee</a:SessionID>
+        <a:Sign a:nil="true"/>
+        <a:UniqueID>e41db093-75d7-41a1-8190-3d9dcaad98ee</a:UniqueID>
+    </session>
+    </MatlChklEdit>
